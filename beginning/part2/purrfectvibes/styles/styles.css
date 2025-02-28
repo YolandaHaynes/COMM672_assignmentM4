@@ -129,7 +129,7 @@ table tr td[colspan="2"] {
 }
 
 .community div:nth-child(3) img {
-    border-bottom: 5px solid #B36793;
+    border-bottom: 10px solid #B36793;
     padding-bottom: 30px;
 }
 
